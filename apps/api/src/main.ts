@@ -8,7 +8,7 @@ async function bootstrap() {
   app.enableCors({
     origin: [
       /^http:\/\/localhost(:\d+)?$/,
-      /^http:\/\/earthworm\.cuixueshe\.com(:81)?$/,
+      /^http:\/\/43\.139\.90\.237(:\d+)?$/,
     ],
   });
 
