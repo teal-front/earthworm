@@ -9,6 +9,7 @@ async function bootstrap() {
     origin: [
       /^http:\/\/localhost(:\d+)?$/,
       /^http:\/\/earthworm\.cuixueshe\.com(:\d+)?$/,
+      /^http:\/\/43\.139\.90\.237(:\d+)?$/,
     ],
   });
 
