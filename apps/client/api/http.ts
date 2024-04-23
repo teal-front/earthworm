@@ -5,7 +5,7 @@ import { checkHaveToken, getToken } from "~/utils/token";
 
 export const http: AxiosInstance = axios.create({
   baseURL: isProd()
-    ? `http://${location.hostname}:3001/api`
+    ? `http://earthworm.cuixueshe.com/api`
     : "http://localhost:3001",
   timeout: 10000,
   headers: { "Content-Type": "application/json" },
