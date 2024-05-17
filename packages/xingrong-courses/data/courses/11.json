@@ -65,13 +65,18 @@
         "soundmark": ""
     },
     {
-        "chinese": "collide",
+        "chinese": "她举手回答老师的问题",
         "english": "she raised her hand to answer the teacher's question",
         "soundmark": ""
     },
     {
-        "chinese": "the cars collided because the road was slippery",
-        "english": "互撞",
+        "chinese": "互撞",
+        "english": "collide",
+        "soundmark": ""
+    },
+    {
+        "chinese": "因为路面湿滑，这两辆汽车相撞了",
+        "english": "the cars collided because the road was slippery",
         "soundmark": ""
     },
     {
