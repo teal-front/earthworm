@@ -110,22 +110,23 @@
         "soundmark": ""
     },
     {
-        "chinese": "they are undertaking an analysis of the data",
+        "chinese": "分析",
         "english": "analysis",
         "soundmark": ""
     },
     {
-        "chinese": "transmission",
-        "english": "他们正在对数据进行分析",
+        "chinese": "他们正在对数据进行分析",
+        "english": "they are undertaking an analysis of the data",
         "soundmark": ""
     },
     {
-        "chinese": "this tower was built for mobile phone signal transmission",
-        "english": "传输",
+        "chinese": "传输",
+        "english": "transmission",
         "soundmark": ""
     },
     {
-        "english": "这座塔是用来传输手机信号的",
+        "chinese": "这座塔是用来传输手机信号的",
+        "english": "this tower was built for mobile phone signal transmission",
         "soundmark": ""
     }
 ]

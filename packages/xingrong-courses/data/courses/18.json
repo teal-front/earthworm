@@ -25,117 +25,118 @@
         "soundmark": ""
     },
     {
-        "chinese": "hitherto",
+        "chinese": "这有很多种类的蕃茄",
         "english": "there is a wide variety of tomatoes",
         "soundmark": ""
     },
     {
-        "chinese": "hitherto, the prince's Miss Right has not been here",
-        "english": "到目前为止",
+        "chinese": "到目前为止",
+        "english": "hitherto",
         "soundmark": ""
     },
     {
-        "chinese": "usage",
-        "english": "到目前为止，王子的意中人还没有出现",
+        "chinese": "到目前为止，王子的意中人还没有出现",
+        "english": "hitherto, the prince's Miss Right has not been here",
         "soundmark": ""
     },
     {
-        "chinese": "the teacher wrote out the correct usage of the word on the board",
-        "english": "使用",
+        "chinese": "使用",
+        "english": "usage",
         "soundmark": ""
     },
     {
-        "chinese": "groan",
-        "english": "老师在黑板上写了这个单词的正确用法",
+        "chinese": "老师在黑板上写了这个单词的正确用法",
+        "english": "the teacher wrote out the correct usage of the word on the board",
         "soundmark": ""
     },
     {
-        "chinese": "the woman loudly groaned due to her splitting headache",
-        "english": "呻吟",
+        "chinese": "呻吟",
+        "english": "groan",
         "soundmark": ""
     },
     {
-        "chinese": "limitation",
-        "english": "这个女人因剧烈的头痛而大声呻吟起来",
+        "chinese": "这个女人因剧烈的头痛而大声呻吟起来",
+        "english": "the woman loudly groaned due to her splitting headache",
         "soundmark": ""
     },
     {
-        "chinese": "there's a limitation on what he can see",
-        "english": "限制",
+        "chinese": "限制",
+        "english": "limitation",
         "soundmark": ""
     },
     {
-        "chinese": "dawn",
-        "english": "他的视野被限制了",
+        "chinese": "他的视野被限制了",
+        "english": "there's a limitation on what he can see",
         "soundmark": ""
     },
     {
-        "chinese": "the rooster standing on the field crows at dawn",
-        "english": "黎明",
+        "chinese": "黎明",
+        "english": "dawn",
         "soundmark": ""
     },
     {
-        "chinese": "approach",
-        "english": "田野里的公鸡在黎明时分打鸣",
+        "chinese": "田野里的公鸡在黎明时分打鸣",
+        "english": "the rooster standing on the field crows at dawn",
         "soundmark": ""
     },
     {
-        "chinese": "the boat is approaching the jetty at a high speed",
-        "english": "靠近",
+        "chinese": "靠近",
+        "english": "approach",
         "soundmark": ""
     },
     {
-        "chinese": "hive",
-        "english": "这艘船正以很快的速度靠近码头",
+        "chinese": "这艘船正以很快的速度靠近码头",
+        "english": "the boat is approaching the jetty at a high speed",
         "soundmark": ""
     },
     {
-        "chinese": "many bees live in this hive",
-        "english": "蜂巢",
+        "chinese": "蜂巢",
+        "english": "hive",
         "soundmark": ""
     },
     {
-        "chinese": "homogeneous",
-        "english": "这个蜂巢里住了很多蜜蜂",
+        "chinese": "这个蜂巢里住了很多蜜蜂",
+        "english": "many bees live in this hive",
         "soundmark": ""
     },
     {
-        "chinese": "the old town is ethnically homogeneous compared with the big city",
-        "english": "同类的，同质的",
+        "chinese": "同类的，同质的",
+        "english": "homogeneous",
         "soundmark": ""
     },
     {
-        "chinese": "complex",
-        "english": "与大城市相比，这个古镇的人口种族单一",
+        "chinese": "与大城市相比，这个古镇的人口种族单一",
+        "english": "the old town is ethnically homogeneous compared with the big city",
         "soundmark": ""
     },
     {
-        "chinese": "he has no clue about how to solve this complex case",
-        "english": "复杂的",
+        "chinese": "复杂的",
+        "english": "complex",
         "soundmark": ""
     },
     {
-        "chinese": "groove",
-        "english": "他对如何解决这个复杂的案件毫无头绪",
+        "chinese": "他对如何解决这个复杂的案件毫无头绪",
+        "english": "he has no clue about how to solve this complex case",
         "soundmark": ""
     },
     {
-        "chinese": "most sliding doors move inside the grooves",
-        "english": "凹槽",
+        "chinese": "凹槽",
+        "english": "groove",
         "soundmark": ""
     },
     {
-        "chinese": "intrude",
-        "english": "大多数的滑动门都在凹槽里移动",
+        "chinese": "大多数的滑动门都在凹槽里移动",
+        "english": "most sliding doors move inside the grooves",
         "soundmark": ""
     },
     {
-        "chinese": "a bad guy intruded into my house with a knife",
-        "english": "闯入",
+        "chinese": "闯入",
+        "english": "intrude",
         "soundmark": ""
     },
     {
-        "english": "一个坏人拿着刀闯入了我的房子",
+        "chinese": "一个坏人拿着刀闯入了我的房子",
+        "english": "a bad guy intruded into my house with a knife",
         "soundmark": ""
     }
 ]
