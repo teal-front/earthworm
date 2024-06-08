@@ -13,7 +13,7 @@ const lines = text.trim().split('\n');
 const data = [];
 
 // 遍历行的数组，每次取两行
-for (let i = 0; i < lines.length; i += 5) {
+for (let i = 0; i < lines.length; i += 4) {
     // 创建一个对象，其中 chinese 是第 i+1 行，english 是第 i 行，soundmark 是空字符串
     const item1 = {
         chinese: lines[i + 1],
@@ -34,5 +34,5 @@ for (let i = 0; i < lines.length; i += 5) {
 const json_data = JSON.stringify(data, null, 4);
 
 // 写入 JSON 数据到文件
-const targetPath = path.resolve(__dirname, './data/courses/31.json');
+const targetPath = path.resolve(__dirname, './data/courses/39.json');
 fs.writeFileSync(targetPath, json_data);
