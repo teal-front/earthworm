@@ -1,7 +1,8 @@
 [
     {
         "chinese": ".旋律，悦耳的音乐",
-        "english": "melody"
+        "english": "melody",
+        "soundmark": ""
     },
     {
         "chinese": "他用钢琴弹奏了一段美妙的旋律。",
@@ -80,7 +81,8 @@
     },
     {
         "chinese": "1.云；云状物",
-        "english": "cloud"
+        "english": "cloud",
+        "soundmark": ""
     },
     {
         "chinese": "你不觉得这朵云看起来像一颗心吗？",

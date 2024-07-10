@@ -125,7 +125,7 @@
         "soundmark": "/An'li:f/"
     },
     {
-        "chinese": "关门，放狗！",
+        "chinese": "关门放狗！",
         "english": "Close the gate and unleash the dog",
         "soundmark": ""
     },
@@ -136,7 +136,7 @@
     },
     {
         "chinese": "当有人走过来时，自动门会自行打开。",
-        "english": "The automatic door opens by itself when someone walks towards it",
+        "english": "The automatic door opens by itself, when someone walks towards it",
         "soundmark": ""
     },
     {
