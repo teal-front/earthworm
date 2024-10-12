@@ -106,7 +106,7 @@
     },
     {
         "chinese": "我特别喜欢这种糕点。我要把它们全部吃完！",
-        "english": "I love the pastry so much. I'll eat them all!",
+        "english": "I love the pastry so much, I'll eat them",
         "soundmark": ""
     },
     {
@@ -125,8 +125,8 @@
         "soundmark": "/birganik/"
     },
     {
-        "chinese": "我们没有使用化肥，这是纯天然有机食物！",
-        "english": "We don't use chemical fertilizer; this is natural organic food!",
+        "chinese": "我们没有使用化肥，这是纯天然有机食物",
+        "english": "We don't use chemical fertilizer, this is natural organic food",
         "soundmark": ""
     },
     {
@@ -136,7 +136,7 @@
     },
     {
         "chinese": "看不懂这本书是因为我无知或愚蠢吗？",
-        "english": "Is it illiteracy or stupidity that stops me from understanding this book?",
+        "english": "Is it illiteracy or stupidity that stops me from understanding this book",
         "soundmark": ""
     },
     {
@@ -155,7 +155,7 @@
         "soundmark": "/a'bairt/"
     },
     {
-        "chinese": "风暴来袭时，上校中止了任务。",
+        "chinese": "风暴来袭时上校中止了任务。",
         "english": "The captain aborted the mission when the huge storm hit",
         "soundmark": ""
     }
